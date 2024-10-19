@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+aws:
+  access_key: "default-access-key"
+  secret_key: "default-secret-key"
+  region: "us-east-1"

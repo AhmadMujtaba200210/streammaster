@@ -1,0 +1,61 @@
+# Go binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Vendor directory
+/vendor/
+
+# Build artifacts
+*.out
+*.a
+*.o
+*.test
+
+# Go modules
+/go.mod
+/go.sum
+
+# IDE and Editor files
+# VSCode
+.vscode/
+# GoLand
+.idea/
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+# Vim
+*.swp
+# Intellij
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Coverage files
+*.cov
+coverage.out
+
+# Miscellaneous
+*.tmp
+*.bak
+*.orig
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Testing files
+*.test
+test_results.xml

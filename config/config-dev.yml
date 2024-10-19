@@ -1,0 +1,13 @@
+server:
+  port: 8089
+database:
+  url:
+  port:
+  host:
+  dbname:
+  username:
+  password:
+aws:
+  access_key: "default-access-key"
+  secret_key: "default-secret-key"
+  region: "us-east-1"
